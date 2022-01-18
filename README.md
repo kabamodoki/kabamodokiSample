@@ -1,1 +1,1 @@
-# kabamodokiSample
+# FF14 固定活動スケジュール管理ツール
